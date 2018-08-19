@@ -12,15 +12,15 @@ I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020
 
 ####  PhD Thesis
 
-Aciel Eshky. Generative Probabilistic Models of Goal-Directed Users in Task Oriented Dialogs. PhD thesis, School of Informatics, University of Edinburgh, July 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.bib)]
+**Generative Probabilistic Models of Goal-Directed Users in Task Oriented Dialogs**. Aciel Eshky. PhD thesis, School of Informatics, University of Edinburgh, July 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.bib)]
 
 #### Conference Papers
 
-Aciel Eshky, Manuel Sam Ribeiro, Joanne Cleland, Korin Richmond, Zoe Roxburgh, James Scobbie, Alan Wrench. UltraSuite: A Repository of Ultrasound and Acoustic Data from Child Speech Therapy Sessions. In INTERSPEECH 2018: Proceedings of the 19th Annual Conference of the International Speech Communication Association (ISCA), 2-6 September 2018, Hyderabad, India. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.bib)]
+**UltraSuite: A Repository of Ultrasound and Acoustic Data from Child Speech Therapy Sessions**. Aciel Eshky, Manuel Sam Ribeiro, Joanne Cleland, Korin Richmond, Zoe Roxburgh, James Scobbie, Alan Wrench. In INTERSPEECH 2018: Proceedings of the 19th Annual Conference of the International Speech Communication Association (ISCA), Hyderabad, India, 2018. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.bib)]
 
-Aciel Eshky, Ben Allison, Subramanian Ramamoorthy, and Mark Steedman. A generative model for user simulation in a spatial navigation domain. In EACL, pages 626-635, 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.bib)]
+**A generative model for user simulation in a spatial navigation domain**. Aciel Eshky, Ben Allison, Subramanian Ramamoorthy, and Mark Steedman. In EACL: Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL), Gothenburg, pages 626-635. Association for Computational Linguistics, 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.bib)]
 
-Aciel Eshky, Ben Allison, and Mark Steedman. Generative goal-driven user simulation for dialog management. In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pages 71-81. Association for Computational Linguistics, 2012. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.bib)]
+**Generative goal-driven user simulation for dialog management**. Aciel Eshky, Ben Allison, and Mark Steedman. In EMNLP-CoNLL:  Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, Jeju Island, Korea, 71-8. Association for Computational Linguistics, 2012. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.bib)]
 
 ### Code
 
