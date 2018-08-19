@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Aciel Eshky's homepage
 
-You can use the [editor on GitHub](https://github.com/aeshky/aeshky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I currently work as a Research Associate at the [Centre for Speech Technology Research (CSTR)](http://www.cstr.ed.ac.uk) at the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prior to this I worked at a senior software engineer at [Quantics Biostatistic](https://www.quantics.co.uk) where I developed as part of a team a commercial software for the statistical modelling and analysis of Bioassay data. During my time there I also worked on a number of consulting projects for pharmaceutical clients. 
 
-### Markdown
+In 2014, I completed my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) at the School of Informatics, University of Edinburgh. My thesis introduced the idea of viewing goal-directed users in task-oreinted dialogs as generative probabilic models. I was supervised by [Mark Steedman](http://homepages.inf.ed.ac.uk/steedman/), and examined by [James Henderson](http://cui.unige.ch/~hendersj/) and [Steve Renals](http://homepages.inf.ed.ac.uk/srenals/). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project, developing machine learning tools for speech therapists.
 
-```markdown
-Syntax highlighted code block
+### Publications
 
-# Header 1
-## Header 2
-### Header 3
+####  PhD Thesis
 
-- Bulleted
-- List
+Aciel Eshky. Generative Probabilistic Models of Goal-Directed Users in Task Oriented Dialogs. PhD thesis, School of Informatics, University of Edinburgh, The University of Edinburgh, 10 Crichton Street, Edinburgh UK, EH8 9AB, July 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.bib)]
 
-1. Numbered
-2. List
+#### Conference Papers
 
-**Bold** and _Italic_ and `Code` text
+Aciel Eshky, Manuel Sam Ribeiro, Joanne Cleland, Korin Richmond, Zoe Roxburgh, James Scobbie, Alan Wrench. UltraSuite: A Repository of Ultrasound and Acoustic Data from Child Speech Therapy Sessions. In INTERSPEECH 2018: Proceedings of the 19th Annual Conference of the International Speech Communication Association (ISCA), 2-6 September 2018, Hyderabad, India. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.bib)]
 
-[Link](url) and ![Image](src)
-```
+Aciel Eshky, Ben Allison, Subramanian Ramamoorthy, and Mark Steedman. A generative model for user simulation in a spatial navigation domain. In EACL, pages 626-635, 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.bib)]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Aciel Eshky, Ben Allison, and Mark Steedman. Generative goal-driven user simulation for dialog management. In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pages 71-81. Association for Computational Linguistics, 2012. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.bib)]
 
-### Jekyll Themes
+### Code
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aeshky/aeshky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+UltraSuite tools: https://github.com/UltraSuite/ultrasuite-tools
