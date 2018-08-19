@@ -2,17 +2,17 @@
 
 I currently work as a Research Associate at the [Centre for Speech Technology Research (CSTR)](http://www.cstr.ed.ac.uk) at the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). 
 
-Prior to this I worked at a senior software engineer at [Quantics Biostatistic](https://www.quantics.co.uk) where I developed as part of a team a commercial software for the statistical modelling and analysis of Bioassay data. During my time there I also worked on a number of consulting projects for pharmaceutical clients. 
+Prior to this I worked at a Senior Software Engineer at [Quantics Biostatistics](https://www.quantics.co.uk) where I developed as part of a team a commercial software for the statistical modelling and analysis of Bioassay data. During my time there I also worked on a number of statistical consulting projects for pharmaceutical clients. 
 
-In 2014, I completed my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) at the School of Informatics, University of Edinburgh. My thesis introduced the idea of viewing goal-directed users in task-oreinted dialogs as generative probabilic models. I was supervised by [Mark Steedman](http://homepages.inf.ed.ac.uk/steedman/), and examined by [James Henderson](http://cui.unige.ch/~hendersj/) and [Steve Renals](http://homepages.inf.ed.ac.uk/srenals/). 
+In 2014, I completed my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) at the School of Informatics, University of Edinburgh. My [thesis](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf) introduced the idea of viewing goal-directed users in task-oriented dialogs as generative probabilistic models. I was supervised by [Mark Steedman](http://homepages.inf.ed.ac.uk/steedman/), and examined by [James Henderson](http://cui.unige.ch/~hendersj/) and [Steve Renals](http://homepages.inf.ed.ac.uk/srenals/). 
 
-I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project, developing machine learning tools for speech therapists.
+I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project, developing Machine Learning tools to [automate speech therapy tasks](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf).
 
 ### Publications
 
 ####  PhD Thesis
 
-Aciel Eshky. Generative Probabilistic Models of Goal-Directed Users in Task Oriented Dialogs. PhD thesis, School of Informatics, University of Edinburgh, The University of Edinburgh, 10 Crichton Street, Edinburgh UK, EH8 9AB, July 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.bib)]
+Aciel Eshky. Generative Probabilistic Models of Goal-Directed Users in Task Oriented Dialogs. PhD thesis, School of Informatics, University of Edinburgh, July 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.bib)]
 
 #### Conference Papers
 
