@@ -5,7 +5,7 @@ Prior to this I worked as a Senior Software Engineer at [Quantics Biostatistics]
 
 In 2014, I completed my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) at the School of Informatics, University of Edinburgh. My thesis coined the idea of treating the behaviour of goal-directed users in task-oriented dialogs as arising from a generative probabilistic model. I was supervised by [Mark Steedman](http://homepages.inf.ed.ac.uk/steedman/), and examined by [James Henderson](http://cui.unige.ch/~hendersj/) and [Steve Renals](http://homepages.inf.ed.ac.uk/srenals/). 
 
-I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project, developing Machine Learning tools to [automate speech therapy tasks](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf).
+I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project, developing Machine Learning tools to [automate speech therapy tasks](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf). I also supervise a number of Informatics MSc students. 
 
 ## Publications
 
