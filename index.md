@@ -15,13 +15,16 @@ I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020
 
 ### Conference Papers
 
-*Speaker-Independent Classification of Phonetic Segments from Raw Ultrasound in Child Speech*. Manuel Sam Ribeiro, Aciel Eshky, Korin Richmond, Steve Renals. In ICASSP 2019: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, United Kingdom, 2019.
+*Speaker-Independent Classification of Phonetic Segments from Raw Ultrasound in Child Speech*. Manuel Sam Ribeiro, Aciel Eshky, Korin Richmond, Steve Renals. In ICASSP 2019: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, United Kingdom, 2019.
 
-*UltraSuite: A Repository of Ultrasound and Acoustic Data from Child Speech Therapy Sessions*. Aciel Eshky, Manuel Sam Ribeiro, Joanne Cleland, Korin Richmond, Zoe Roxburgh, James Scobbie, Alan Wrench. In INTERSPEECH 2018: Proceedings of the 19th Annual Conference of the International Speech Communication Association (ISCA), Hyderabad, India, 2018. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.bib)] [[slides](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18_slides.pdf)]
+*UltraSuite: A Repository of Ultrasound and Acoustic Data from Child Speech Therapy Sessions*. Aciel Eshky, Manuel Sam Ribeiro, Joanne Cleland, Korin Richmond, Zoe Roxburgh, James Scobbie, Alan Wrench. In INTERSPEECH 2018: Proceedings of the 19th Annual Conference of the International Speech Communication Association (ISCA), Hyderabad, India, 2018. 
+[[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.bib)] [[slides](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18_slides.pdf)]
 
-*A Generative Model for User Simulation in a Spatial Navigation Domain*. Aciel Eshky, Ben Allison, Subramanian Ramamoorthy, and Mark Steedman. In EACL: Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL), Gothenburg, pages 626-635. Association for Computational Linguistics, 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.bib)]
+*A Generative Model for User Simulation in a Spatial Navigation Domain*. Aciel Eshky, Ben Allison, Subramanian Ramamoorthy, and Mark Steedman. In EACL: Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL), Gothenburg, pages 626-635. Association for Computational Linguistics, 2014. 
+[[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.bib)]
 
-*Generative Goal-Driven User Simulation for Dialog Management*. Aciel Eshky, Ben Allison, and Mark Steedman. In EMNLP-CoNLL:  Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, Jeju Island, Korea, 71-8. Association for Computational Linguistics, 2012. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.bib)]
+*Generative Goal-Driven User Simulation for Dialog Management*. Aciel Eshky, Ben Allison, and Mark Steedman. In EMNLP-CoNLL:  Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, Jeju Island, Korea, 71-8. Association for Computational Linguistics, 2012. 
+[[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EMNLP12.bib)]
 
 ## Code
 
