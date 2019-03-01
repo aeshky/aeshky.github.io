@@ -15,7 +15,7 @@ I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020
 
 ### Conference Papers
 
-*UltraSuite: A Repository of Ultrasound and Acoustic Data from Child Speech Therapy Sessions*. Aciel Eshky, Manuel Sam Ribeiro, Joanne Cleland, Korin Richmond, Zoe Roxburgh, James Scobbie, Alan Wrench. In INTERSPEECH 2018: Proceedings of the 19th Annual Conference of the International Speech Communication Association (ISCA), Hyderabad, India, 2018. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.bib)]
+*UltraSuite: A Repository of Ultrasound and Acoustic Data from Child Speech Therapy Sessions*. Aciel Eshky, Manuel Sam Ribeiro, Joanne Cleland, Korin Richmond, Zoe Roxburgh, James Scobbie, Alan Wrench. In INTERSPEECH 2018: Proceedings of the 19th Annual Conference of the International Speech Communication Association (ISCA), Hyderabad, India, 2018. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.bib)][[slides](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18_slides.pdf)]
 
 *A Generative Model for User Simulation in a Spatial Navigation Domain*. Aciel Eshky, Ben Allison, Subramanian Ramamoorthy, and Mark Steedman. In EACL: Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL), Gothenburg, pages 626-635. Association for Computational Linguistics, 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/eshky_EACL14.bib)]
 
