@@ -11,7 +11,8 @@ I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020
 
 ###  PhD Thesis
 
-*Generative Probabilistic Models of Goal-Directed Users in Task Oriented Dialogs*. Aciel Eshky. PhD thesis, School of Informatics, University of Edinburgh, July 2014. [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.bib)]
+*Generative Probabilistic Models of Goal-Directed Users in Task Oriented Dialogs*. Aciel Eshky. PhD thesis, School of Informatics, University of Edinburgh, July 2014. 
+[[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.bib)]
 
 ### Conference Papers
 
