@@ -3,9 +3,9 @@ I currently work as a Research Associate at the [Centre for Speech Technology Re
 
 Prior to this I worked as a Senior Software Engineer at [Quantics Biostatistics](https://www.quantics.co.uk) where I developed as part of a team a commercial software for the statistical modelling and analysis of Bioassay data ([QuBAS](https://www.quantics.co.uk/qubas-bioassay-software/)). During my time there I also worked on a number of statistical consulting projects for pharmaceutical clients. 
 
-In 2014, I completed my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) at the School of Informatics, University of Edinburgh. My thesis coined the idea of treating the behaviour of goal-directed users in task-oriented dialogs as arising from a generative probabilistic model. I was supervised by [Mark Steedman](http://homepages.inf.ed.ac.uk/steedman/), and examined by [James Henderson](http://cui.unige.ch/~hendersj/) and [Steve Renals](http://homepages.inf.ed.ac.uk/srenals/). 
+In 2014, I completed my PhD at the [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc) at the School of Informatics, University of Edinburgh. My thesis coined the idea of treating the behaviour of goal-directed users in task-oriented dialogs as arising from a generative probabilistic model. I was supervised by [Mark Steedman](http://homepages.inf.ed.ac.uk/steedman/), and co-supervised by [Subramanian Ramamoorthy](http://homepages.inf.ed.ac.uk/sramamoo/). 
 
-I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project, developing Machine Learning tools to [automate speech therapy tasks](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf). I also supervise a number of Informatics MSc students. 
+I now work on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project, developing Machine Learning tools to [automate speech therapy tasks](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_IS18.pdf) with [Steve Renals](http://homepages.inf.ed.ac.uk/srenals/), [Korin Richmond](http://homepages.inf.ed.ac.uk/korin/sitenew/index.html), and [Sam Ribeiro](http://msamribeiro.github.io/). I also supervise a number of Informatics MSc students. 
 
 ## Publications
 
