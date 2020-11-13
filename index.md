@@ -1,5 +1,5 @@
 ## Introduction
-I currently work as a Research Associate at the [Centre for Speech Technology Research (CSTR)](http://www.cstr.ed.ac.uk) at the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). 
+I currently work as a Research Associate at the [Centre for Speech Technology Research (CSTR)](http://www.cstr.ed.ac.uk) at the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). From January 2021, I'll be working at [Rasa](https://rasa.com/).
 
 Prior to this I worked as a Senior Software Engineer at [Quantics Biostatistics](https://www.quantics.co.uk) where I developed as part of a team a commercial software for the statistical modelling and analysis of Bioassay data ([QuBAS](https://www.quantics.co.uk/qubas-bioassay-software/)). During my time there I also worked on a number of statistical consulting projects for pharmaceutical clients. 
 
