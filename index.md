@@ -11,14 +11,18 @@ In 2014, I received my PhD from the [Institute for Language, Cognition and Compu
 
 ## Publications
 
+Full list on [Google Scholar](https://scholar.google.co.uk/citations?user=wxZJ_RgAAAAJ&hl=en). 
+
 ###  PhD Thesis
 
 *Generative Probabilistic Models of Goal-Directed Users in Task Oriented Dialogs*. Aciel Eshky. PhD thesis, School of Informatics, University of Edinburgh, July 2014. 
 [[pdf](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.pdf)] [[bib](http://homepages.inf.ed.ac.uk/aeshky/pub/aeshky_phd_thesis.bib)]
 
-### Publications
+### Journal Articles
 
-Full list on [Google Scholar](https://scholar.google.co.uk/citations?user=wxZJ_RgAAAAJ&hl=en). 
+*Exploiting ultrasound tongue imaging for the automatic detection of speech articulation errors*. Manuel Sam Ribeiro, Joanne Cleland, Aciel Eshky, Korin Richmond, Steve Renals (2021). In Speech Communication, Volume 128, Pages 24-34, ISSN 0167-6393. [[DOI](https://doi.org/10.1016/j.specom.2021.02.001)]
+
+### Conference Articles
 
 *Synchronising audio and ultrasound by learning cross-modal embeddings*. Aciel Eshky, Manuel Sam Ribeiro, Korin Richmond, Steve Renals. In INTERSPEECH 2019: Proceedings of the 20th Annual Conference of the International Speech Communication Association (ISCA), Graz, Austria, 2019. 
 [[pdf](https://arxiv.org/pdf/1907.00758)] [[poster](http://homepages.inf.ed.ac.uk/aeshky/pub/portrait_ultrasync_poster.pdf)]
