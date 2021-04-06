@@ -1,7 +1,7 @@
 ## Introduction
-I currently work as a Machine Learning Researcher at [Rasa](https://rasa.com/research/), where we building the standard infrastructure for conversational AI.
+I currently work as a Machine Learning Researcher at [Rasa](https://rasa.com/research/), where we are building the standard infrastructure for conversational AI.
 
-Before joining Rasa, I was a Research Associate at the [Centre for Speech Technology Research (CSTR)](http://www.cstr.ed.ac.uk). I worked on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project automating speech and language therapy using machine learning. I also supervise a number of Informatics MSc students.
+Before joining Rasa, I was a Research Associate at the [Centre for Speech Technology Research (CSTR)](http://www.cstr.ed.ac.uk). I worked on the [Ultrax2020](http://www.ultrax-speech.org/research/ultrax-2020) project automating speech and language therapy using machine learning. I also supervised a number of Informatics MSc students.
 
 Prior to that, I was a Senior Statistics Software Engineer at [Quantics Biostatistics](https://www.quantics.co.uk) where I developed as part of a team a commercial software for the statistical modelling and analysis of Bioassay data ([QuBAS](https://www.quantics.co.uk/qubas-bioassay-software/)). During my time there I also worked on a number of statistical consulting projects for pharmaceutical clients. 
 
