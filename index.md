@@ -20,7 +20,7 @@ Full list on [Google Scholar](https://scholar.google.co.uk/citations?user=wxZJ_R
 
 ### Journal Articles
 
-*Exploiting ultrasound tongue imaging for the automatic detection of speech articulation errors*. Manuel Sam Ribeiro, Joanne Cleland, Aciel Eshky, Korin Richmond, Steve Renals (2021). In Speech Communication, Volume 128, Pages 24-34, ISSN 0167-6393. [[DOI](https://doi.org/10.1016/j.specom.2021.02.001)]
+*Exploiting ultrasound tongue imaging for the automatic detection of speech articulation errors*. Manuel Sam Ribeiro, Joanne Cleland, Aciel Eshky, Korin Richmond, Steve Renals (2021). In Speech Communication, Volume 128, Pages 24-34, ISSN 0167-6393. [[DOI](https://doi.org/10.1016/j.specom.2021.02.001)] [[preprint](https://arxiv-download.xixiaoyao.cn/pdf/2103.00324.pdf)]
 
 ### Conference Articles
 
