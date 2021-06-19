@@ -26,6 +26,14 @@ Full list on [Google Scholar](https://scholar.google.co.uk/citations?user=wxZJ_R
 
 ### Conference Articles
 
+*Silent versus modal multi-speaker speech recognition from ultrasound and video*.
+Manuel Sam Ribeiro, Aciel Eshky, Korin Richmond, Steve Renals.
+INTERSPEECH 2021. [[pdf](https://arxiv.org/abs/2103.00333)]
+
+*TaL: a synchronised multi-speaker corpus of ultrasound tongue imaging, audio, and lip videos*.
+Manuel Sam Ribeiro, Jennifer Sanger, Jing-Xuan Zhang, Aciel Eshky, Alan Wrench, Korin Richmond, Steve Renals.
+SLT 2021: IEEE Spoken Language Technology Workshop.[[pdf](https://arxiv.org/abs/2011.09804)]
+
 *Synchronising audio and ultrasound by learning cross-modal embeddings*. Aciel Eshky, Manuel Sam Ribeiro, Korin Richmond, Steve Renals. In INTERSPEECH 2019: Proceedings of the 20th Annual Conference of the International Speech Communication Association (ISCA), Graz, Austria, 2019. 
 [[pdf](https://arxiv.org/pdf/1907.00758)] [[poster](http://homepages.inf.ed.ac.uk/aeshky/pub/portrait_ultrasync_poster.pdf)]
 
